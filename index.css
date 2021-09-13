@@ -1,0 +1,18 @@
+.fondo1{
+    height: 400px;
+    background: salmon;
+}
+
+.fondo2{
+    height: 400px;
+    background: pink;
+}
+
+.fondo3{
+    height: 400px;
+    background: yellow;
+}
+
+.bg-primary{
+    transition: all 1s ease;
+}
